@@ -4,8 +4,8 @@ Hi there 👋
 An opensource enthusiast.
 
 
-![Strong's github stats](https://github-readme-stats.vercel.app/api?username=AlphaHot&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaHot&layout=compact)
+![Strong's github stats](https://github-readme-stats.vercel.app/api?username=AlphaHot&show_icons=true&count_private=true&title_color=fe9600&icon_color=fe9600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaHot&langs_count=10&title_color=fe9600)
 
 <!--
 **AlphaHot/AlphaHot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
