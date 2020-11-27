@@ -3,6 +3,7 @@ Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlphaHot" alt="AlphaHot" /> </p>
 An opensource enthusiast.
 
+![bisexual](https://raw.githubusercontent.com/joypixels/pride-emoji-flags/master/svg/bisexual-flag.svg "Bisexual")
 
 ![Strong's github stats](https://github-readme-stats.vercel.app/api?username=AlphaHot&show_icons=true&count_private=true&title_color=fe9600&icon_color=fe9600)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaHot&langs_count=10&title_color=fe9600)
