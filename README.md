@@ -1,4 +1,8 @@
 Hi there 👋
+A software engineer focused on everything
+
+![](https://github-profile-trophy.vercel.app/?username=AlphaHot)
+
 ### Hobby
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlphaHot" alt="AlphaHot" /> </p>
 An opensource enthusiast.
